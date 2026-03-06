@@ -8,7 +8,7 @@ public class ContaBancaria {
         this.numeroConta = numeroConta;
         this.agencia = agencia;
         this.nomeCliente = nomeCliente;
-        this.saldo = saldo;
+        this.saldo = 0;
         this.status = status;
     }
 
